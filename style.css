@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: grey;
+}
+
+.header_div{
+    background:-webkit-repeating-linear-gradient(white,grey);
+    text-align: center;
+}
+
+
+
+
+#jh{
+    background:-webkit-repeating-linear-gradient(grey,rgb(46, 44, 44),);
+    text-align: center;
+    color:black;
+}
